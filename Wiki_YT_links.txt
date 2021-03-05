@@ -1,0 +1,29 @@
+\bibitem{ca2021}
+Cambridge Analytica, Wikipedia, \url{https://en.wikipedia.org/wiki/Cambridge_Analytica}
+
+\bibitem{cw2021}
+Christopher Wylie, Wikipedia, \url{https://en.wikipedia.org/wiki/Christopher_Wylie}
+
+\bibitem{bk2021}
+Brittany Kaiser, Wikipedia, \url{https://en.wikipedia.org/wiki/Brittany_Kaiser}
+
+\bibitem{fbca2021}
+facebook–cambridge analytica data scandal, Wikipedia, \url{https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal}
+
+\bibitem{scl2021}
+SCL Group, Wikipedia, \url{https://en.wikipedia.org/wiki/SCL_Group}
+
+\bibitem{ak2021}
+Aleksandr Kogan, Wikipedia, \url{https://en.wikipedia.org/wiki/Aleksandr_Kogan}
+
+\bibitem{rm2021}
+Robert Mercer, Wikipedia, \url{https://en.wikipedia.org/wiki/Robert_Mercer}
+
+\bibitem{an2021}
+Alexander Nix, Wikipedia, \url{https://en.wikipedia.org/wiki/Alexander_Nix}
+
+\bibitem{dtpc2021}
+Donald Trump 2016 presidential campaign, Wikipedia, \url{https://en.wikipedia.org/wiki/Donald_Trump_2016_presidential_campaign}
+
+\bibitem{bkyt2021}
+Cambridge Analytica whistleblower Brittany Kaiser: "The law doesn't protect you", YouTube, \url{https://www.youtube.com/watch?v=Juwp6fhn6bc}
