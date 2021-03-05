@@ -1,0 +1,5 @@
+\bibitem{tg2021}
+Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach, The Guardian, \url{https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election}
+
+\bibitem{tg2021_2}
+Ted Cruz using firm that harvested data on millions of unwitting Facebook users, The Guardian, \url{https://www.theguardian.com/us-news/2015/dec/11/senator-ted-cruz-president-campaign-facebook-user-data}
