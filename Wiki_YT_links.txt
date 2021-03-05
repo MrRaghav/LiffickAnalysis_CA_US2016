@@ -27,3 +27,6 @@ Donald Trump 2016 presidential campaign, Wikipedia, \url{https://en.wikipedia.or
 
 \bibitem{bkyt2021}
 Cambridge Analytica whistleblower Brittany Kaiser: "The law doesn't protect you", YouTube, \url{https://www.youtube.com/watch?v=Juwp6fhn6bc}
+
+\bibitem{hxford2021}
+hfoxd, Tumblr, \url{https://hfoxd.com/}
